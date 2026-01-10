@@ -1,0 +1,51 @@
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+coverage.xml
+htmlcov/
+
+### Virtual environments ###
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+### Jupyter / IPython ###
+.ipynb_checkpoints/
+.ipython/
+
+### Editors ###
+.vscode/
+.idea/
+
+### Secrets / local config ###
+.env
+.env.*
+!.env.example
+
+### Outputs (optional: keep repo clean) ###
+*.log
+
