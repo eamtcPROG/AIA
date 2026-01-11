@@ -1,27 +1,27 @@
-team_name,points,won,draw,lost,goalsFor,goalsAgainst,goalDifference,position
-Real Madrid CF,95,29,8,6,87,38,61,1
-FC Barcelona,88,28,7,6,102,44,63,1
-Girona FC,81,25,8,19,85,60,39,3
-Club Atlético de Madrid,76,24,10,10,70,43,38,3
-Villarreal CF,70,20,11,13,71,65,20,3
-Athletic Club,70,19,13,9,61,37,25,4
-Real Betis Balompié,60,16,15,10,57,50,7,6
-Real Sociedad de Fútbol,60,16,12,18,51,46,12,6
-RC Celta de Vigo,55,16,11,17,59,57,4,7
-CA Osasuna,52,12,16,17,48,56,-4,8
-Rayo Vallecano de Madrid,52,13,14,16,41,48,-4,9
-Valencia CF,49,13,13,15,44,54,-5,9
-RCD Mallorca,48,13,16,16,35,44,-6,10
-Deportivo Alavés,46,12,12,16,38,48,-8,10
-Getafe CF,43,11,13,18,42,54,-5,11
-RCD Espanyol de Barcelona,42,11,9,18,40,51,3,5
-Sevilla FC,41,10,11,17,48,55,-5,13
-CD Leganés,40,9,13,16,39,56,-17,18
-UD Las Palmas,40,10,10,22,40,61,-14,16
-Cádiz CF,33,6,15,17,26,55,-29,18
-Elche CF,23,5,8,6,25,24,1,9
-Granada CF,21,4,9,25,38,79,-41,20
-UD Almería,21,3,12,23,43,75,-32,19
-Real Valladolid CF,16,4,4,30,26,90,-64,20
-Levante UD,13,3,4,10,20,29,-9,19
-Real Oviedo,13,2,7,10,9,28,-19,20
+team_name,team_id,points,won,draw,lost,goalsFor,goalsAgainst,goalDifference,position
+Real Madrid CF,86,95,29,8,6,87,38,61,1
+FC Barcelona,81,88,28,7,6,102,44,63,1
+Girona FC,298,81,25,8,19,85,60,39,3
+Club Atlético de Madrid,78,76,24,10,10,70,43,38,3
+Villarreal CF,94,70,20,11,13,71,65,20,3
+Athletic Club,77,70,19,13,9,61,37,25,4
+Real Betis Balompié,90,60,16,15,10,57,50,7,6
+Real Sociedad de Fútbol,92,60,16,12,18,51,46,12,6
+RC Celta de Vigo,558,55,16,11,17,59,57,4,7
+CA Osasuna,79,52,12,16,17,48,56,-4,8
+Rayo Vallecano de Madrid,87,52,13,14,16,41,48,-4,9
+Valencia CF,95,49,13,13,15,44,54,-5,9
+RCD Mallorca,89,48,13,16,16,35,44,-6,10
+Deportivo Alavés,263,46,12,12,16,38,48,-8,10
+Getafe CF,82,43,11,13,18,42,54,-5,11
+RCD Espanyol de Barcelona,80,42,11,9,18,40,51,3,5
+Sevilla FC,559,41,10,11,17,48,55,-5,13
+CD Leganés,745,40,9,13,16,39,56,-17,18
+UD Las Palmas,275,40,10,10,22,40,61,-14,16
+Cádiz CF,264,33,6,15,17,26,55,-29,18
+Elche CF,285,23,5,8,6,25,24,1,9
+Granada CF,83,21,4,9,25,38,79,-41,20
+UD Almería,267,21,3,12,23,43,75,-32,19
+Real Valladolid CF,250,16,4,4,30,26,90,-64,20
+Levante UD,88,13,3,4,10,20,29,-9,19
+Real Oviedo,1048,13,2,7,10,9,28,-19,20

@@ -1,61 +1,61 @@
-area_id,area_name,competition_code,competition_id,competition_name,draw,form,goalDifference,goalsAgainst,goalsFor,lost,matchday,playedGames,points,position,season_currentMatchday,season_endDate,season_id,season_startDate,standing_stage,standing_type,team_crest,team_id,team_name,team_shortName,team_tla,won
-0.0,0.0,PD,2014,Primera Division,8,"D,D,W,W,W",61,26,87,1,38,38,95,1,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA,29
-0.0,0.0,PD,2014,Primera Division,7,"W,W,W,W,L",35,44,79,5,38,38,85,2,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB,26
-0.0,0.0,PD,2014,Primera Division,6,"W,W,L,D,W",39,46,85,7,38,38,81,3,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR,25
-0.0,0.0,PD,2014,Primera Division,4,"W,L,W,W,W",27,43,70,10,38,38,76,4,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL,24
-0.0,0.0,PD,2014,Primera Division,11,"W,W,L,D,W",24,37,61,8,38,38,68,5,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH,19
-0.0,0.0,PD,2014,Primera Division,12,"L,W,W,L,W",12,39,51,10,38,38,60,6,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO,16
-0.0,0.0,PD,2014,Primera Division,15,"D,L,D,W,W",3,45,48,9,38,38,57,7,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET,14
-0.0,0.0,PD,2014,Primera Division,11,"D,D,W,W,L",0,65,65,13,38,38,53,8,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL,14
-0.0,0.0,PD,2014,Primera Division,10,"D,L,L,D,L",-5,45,40,15,38,38,49,9,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL,13
-0.0,0.0,PD,2014,Primera Division,10,"D,W,L,D,W",-10,46,36,16,38,38,46,10,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA,12
-0.0,0.0,PD,2014,Primera Division,9,"D,W,D,D,L",-11,56,45,17,38,38,45,11,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA,12
-0.0,0.0,PD,2014,Primera Division,13,"L,L,L,L,L",-12,54,42,15,38,38,43,12,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET,10
-0.0,0.0,PD,2014,Primera Division,11,"L,L,L,L,W",-6,54,48,17,38,38,41,13,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/559.png,559,Sevilla FC,Sevilla FC,SEV,10
-0.0,0.0,PD,2014,Primera Division,11,"D,W,W,L,W",-11,57,46,17,38,38,41,14,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL,10
-0.0,0.0,PD,2014,Primera Division,16,"W,D,D,W,L",-11,44,33,14,38,38,40,15,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL,8
-0.0,0.0,PD,2014,Primera Division,10,"D,D,D,L,L",-14,47,33,18,38,38,40,16,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/275.png,275,UD Las Palmas,Las Palmas,LPA,10
-0.0,0.0,PD,2014,Primera Division,14,"L,L,W,D,L",-19,48,29,16,38,38,38,17,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,8
-0.0,0.0,PD,2014,Primera Division,15,"L,D,W,W,L",-29,55,26,17,38,38,33,18,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/264.png,264,Cádiz CF,Cádiz CF,CAD,6
-0.0,0.0,PD,2014,Primera Division,12,"W,D,L,L,W",-32,75,43,23,38,38,21,19,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/267.png,267,UD Almería,Almería,ALM,3
-0.0,0.0,PD,2014,Primera Division,9,"L,L,L,L,L",-41,79,38,25,38,38,21,20,38,2024-05-26,1577,2023-08-13,REGULAR_SEASON,TOTAL,https://crests.football-data.org/83.png,83,Granada CF,Granada,GRA,4
-0.0,0.0,PD,2014,Primera Division,4,"W,L,W,W,W",63,39,102,6,38,38,88,1,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB,28
-0.0,0.0,PD,2014,Primera Division,6,"W,W,W,L,W",40,38,78,6,38,38,84,2,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA,26
-0.0,0.0,PD,2014,Primera Division,10,"W,W,L,W,D",38,30,68,6,38,38,76,3,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL,22
-0.0,0.0,PD,2014,Primera Division,13,"L,W,W,W,D",25,29,54,6,38,38,70,4,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH,19
-0.0,0.0,PD,2014,Primera Division,10,"W,W,W,W,W",20,51,71,8,38,38,70,5,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL,20
-0.0,0.0,PD,2014,Primera Division,12,"D,L,D,D,W",7,50,57,10,38,38,60,6,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET,16
-0.0,0.0,PD,2014,Primera Division,7,"W,L,W,W,L",2,57,59,15,38,38,55,7,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL,16
-0.0,0.0,PD,2014,Primera Division,16,"D,W,W,D,L",-4,52,48,10,38,38,52,8,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA,12
-0.0,0.0,PD,2014,Primera Division,13,"D,W,D,W,W",-4,45,41,12,38,38,52,9,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,13
-0.0,0.0,PD,2014,Primera Division,9,"D,L,L,W,L",-9,44,35,16,38,38,48,10,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL,13
-0.0,0.0,PD,2014,Primera Division,13,"D,L,L,W,W",-10,54,44,14,38,38,46,11,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL,11
-0.0,0.0,PD,2014,Primera Division,7,"L,W,L,L,D",-11,46,35,18,38,38,46,12,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO,13
-0.0,0.0,PD,2014,Primera Division,9,"L,W,L,L,L",-5,39,34,18,38,38,42,13,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET,11
-0.0,0.0,PD,2014,Primera Division,12,"D,W,W,L,D",-10,48,38,16,38,38,42,14,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA,10
-0.0,0.0,PD,2014,Primera Division,9,"W,L,L,L,L",-11,51,40,18,38,38,42,15,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP,11
-0.0,0.0,PD,2014,Primera Division,11,"L,L,W,L,D",-13,55,42,17,38,38,41,16,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/559.png,559,Sevilla FC,Sevilla FC,SEV,10
-0.0,0.0,PD,2014,Primera Division,8,"L,L,W,L,W",-16,60,44,19,38,38,41,17,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR,11
-0.0,0.0,PD,2014,Primera Division,13,"W,W,L,W,D",-17,56,39,16,38,38,40,18,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/745.png,745,CD Leganés,Leganés,LEG,9
-0.0,0.0,PD,2014,Primera Division,8,"L,L,L,L,L",-21,61,40,22,38,38,32,19,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/275.png,275,UD Las Palmas,Las Palmas,LPA,8
-0.0,0.0,PD,2014,Primera Division,4,"L,L,L,L,L",-64,90,26,30,38,38,16,20,38,2025-05-25,2292,2024-08-18,REGULAR_SEASON,TOTAL,https://crests.football-data.org/250.png,250,Real Valladolid CF,Valladolid,VDD,4
-0.0,0.0,PD,2014,Primera Division,1,"W,W,W,W,W",33,20,53,2,19,19,49,1,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB,16
-0.0,0.0,PD,2014,Primera Division,3,"W,W,W,L,W",24,17,41,2,19,19,45,2,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA,14
-0.0,0.0,PD,2014,Primera Division,2,"W,W,L,W,W",20,17,37,3,19,18,41,3,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL,13
-0.0,0.0,PD,2014,Primera Division,5,"D,W,W,L,L",17,17,34,3,19,19,38,4,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL,11
-0.0,0.0,PD,2014,Primera Division,3,"L,W,W,W,W",3,19,22,5,19,18,33,5,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP,10
-0.0,0.0,PD,2014,Primera Division,8,"D,L,W,D,L",6,25,31,4,19,19,29,6,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET,7
-0.0,0.0,PD,2014,Primera Division,8,"W,D,W,W,L",4,20,24,4,19,18,26,7,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL,6
-0.0,0.0,PD,2014,Primera Division,3,"D,L,L,W,L",-8,25,17,9,19,19,24,8,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH,7
-0.0,0.0,PD,2014,Primera Division,8,"D,L,W,L,W",1,24,25,6,19,19,23,9,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/285.png,285,Elche CF,Elche,ELC,5
-0.0,0.0,PD,2014,Primera Division,6,"W,D,D,L,L",-3,27,24,8,19,19,21,10,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO,5
-0.0,0.0,PD,2014,Primera Division,3,"L,D,L,L,L",-10,25,15,10,19,19,21,11,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET,6
-0.0,0.0,PD,2014,Primera Division,6,"W,W,L,W,L",-16,34,18,8,19,19,21,12,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR,5
-0.0,0.0,PD,2014,Primera Division,2,"L,L,W,D,L",-5,29,24,10,19,18,20,13,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/559.png,559,Sevilla FC,Sevilla FC,SEV,6
-0.0,0.0,PD,2014,Primera Division,4,"L,D,W,L,W",-4,22,18,10,19,19,19,14,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA,5
-0.0,0.0,PD,2014,Primera Division,7,"D,L,D,L,D",-7,21,14,7,19,18,19,15,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,4
-0.0,0.0,PD,2014,Primera Division,4,"L,D,L,L,W",-8,24,16,10,19,19,19,16,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA,5
-0.0,0.0,PD,2014,Primera Division,6,"L,D,W,D,D",-6,26,20,8,19,18,18,17,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL,4
-0.0,0.0,PD,2014,Primera Division,8,"D,L,D,L,D",-13,31,18,8,19,19,17,18,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL,3
-0.0,0.0,PD,2014,Primera Division,4,"W,D,L,L,L",-9,29,20,10,19,17,13,19,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/88.png,88,Levante UD,Levante,LEV,3
-0.0,0.0,PD,2014,Primera Division,7,"D,D,D,L,D",-19,28,9,10,19,19,13,20,19,2026-05-24,2429,2025-08-17,REGULAR_SEASON,TOTAL,https://crests.football-data.org/1048.png,1048,Real Oviedo,Real Oviedo,OVI,2
+competition_id,competition_name,draw,goalDifference,goalsAgainst,goalsFor,lost,matchday,playedGames,points,position,season_currentMatchday,season_endDate,season_id,season_startDate,team_id,team_name,won
+2014,Primera Division,8,61,26,87,1,38,38,95,1,38,2024-05-26,1577,2023-08-13,86,Real Madrid CF,29
+2014,Primera Division,7,35,44,79,5,38,38,85,2,38,2024-05-26,1577,2023-08-13,81,FC Barcelona,26
+2014,Primera Division,6,39,46,85,7,38,38,81,3,38,2024-05-26,1577,2023-08-13,298,Girona FC,25
+2014,Primera Division,4,27,43,70,10,38,38,76,4,38,2024-05-26,1577,2023-08-13,78,Club Atlético de Madrid,24
+2014,Primera Division,11,24,37,61,8,38,38,68,5,38,2024-05-26,1577,2023-08-13,77,Athletic Club,19
+2014,Primera Division,12,12,39,51,10,38,38,60,6,38,2024-05-26,1577,2023-08-13,92,Real Sociedad de Fútbol,16
+2014,Primera Division,15,3,45,48,9,38,38,57,7,38,2024-05-26,1577,2023-08-13,90,Real Betis Balompié,14
+2014,Primera Division,11,0,65,65,13,38,38,53,8,38,2024-05-26,1577,2023-08-13,94,Villarreal CF,14
+2014,Primera Division,10,-5,45,40,15,38,38,49,9,38,2024-05-26,1577,2023-08-13,95,Valencia CF,13
+2014,Primera Division,10,-10,46,36,16,38,38,46,10,38,2024-05-26,1577,2023-08-13,263,Deportivo Alavés,12
+2014,Primera Division,9,-11,56,45,17,38,38,45,11,38,2024-05-26,1577,2023-08-13,79,CA Osasuna,12
+2014,Primera Division,13,-12,54,42,15,38,38,43,12,38,2024-05-26,1577,2023-08-13,82,Getafe CF,10
+2014,Primera Division,11,-6,54,48,17,38,38,41,13,38,2024-05-26,1577,2023-08-13,559,Sevilla FC,10
+2014,Primera Division,11,-11,57,46,17,38,38,41,14,38,2024-05-26,1577,2023-08-13,558,RC Celta de Vigo,10
+2014,Primera Division,16,-11,44,33,14,38,38,40,15,38,2024-05-26,1577,2023-08-13,89,RCD Mallorca,8
+2014,Primera Division,10,-14,47,33,18,38,38,40,16,38,2024-05-26,1577,2023-08-13,275,UD Las Palmas,10
+2014,Primera Division,14,-19,48,29,16,38,38,38,17,38,2024-05-26,1577,2023-08-13,87,Rayo Vallecano de Madrid,8
+2014,Primera Division,15,-29,55,26,17,38,38,33,18,38,2024-05-26,1577,2023-08-13,264,Cádiz CF,6
+2014,Primera Division,12,-32,75,43,23,38,38,21,19,38,2024-05-26,1577,2023-08-13,267,UD Almería,3
+2014,Primera Division,9,-41,79,38,25,38,38,21,20,38,2024-05-26,1577,2023-08-13,83,Granada CF,4
+2014,Primera Division,4,63,39,102,6,38,38,88,1,38,2025-05-25,2292,2024-08-18,81,FC Barcelona,28
+2014,Primera Division,6,40,38,78,6,38,38,84,2,38,2025-05-25,2292,2024-08-18,86,Real Madrid CF,26
+2014,Primera Division,10,38,30,68,6,38,38,76,3,38,2025-05-25,2292,2024-08-18,78,Club Atlético de Madrid,22
+2014,Primera Division,13,25,29,54,6,38,38,70,4,38,2025-05-25,2292,2024-08-18,77,Athletic Club,19
+2014,Primera Division,10,20,51,71,8,38,38,70,5,38,2025-05-25,2292,2024-08-18,94,Villarreal CF,20
+2014,Primera Division,12,7,50,57,10,38,38,60,6,38,2025-05-25,2292,2024-08-18,90,Real Betis Balompié,16
+2014,Primera Division,7,2,57,59,15,38,38,55,7,38,2025-05-25,2292,2024-08-18,558,RC Celta de Vigo,16
+2014,Primera Division,16,-4,52,48,10,38,38,52,8,38,2025-05-25,2292,2024-08-18,79,CA Osasuna,12
+2014,Primera Division,13,-4,45,41,12,38,38,52,9,38,2025-05-25,2292,2024-08-18,87,Rayo Vallecano de Madrid,13
+2014,Primera Division,9,-9,44,35,16,38,38,48,10,38,2025-05-25,2292,2024-08-18,89,RCD Mallorca,13
+2014,Primera Division,13,-10,54,44,14,38,38,46,11,38,2025-05-25,2292,2024-08-18,95,Valencia CF,11
+2014,Primera Division,7,-11,46,35,18,38,38,46,12,38,2025-05-25,2292,2024-08-18,92,Real Sociedad de Fútbol,13
+2014,Primera Division,9,-5,39,34,18,38,38,42,13,38,2025-05-25,2292,2024-08-18,82,Getafe CF,11
+2014,Primera Division,12,-10,48,38,16,38,38,42,14,38,2025-05-25,2292,2024-08-18,263,Deportivo Alavés,10
+2014,Primera Division,9,-11,51,40,18,38,38,42,15,38,2025-05-25,2292,2024-08-18,80,RCD Espanyol de Barcelona,11
+2014,Primera Division,11,-13,55,42,17,38,38,41,16,38,2025-05-25,2292,2024-08-18,559,Sevilla FC,10
+2014,Primera Division,8,-16,60,44,19,38,38,41,17,38,2025-05-25,2292,2024-08-18,298,Girona FC,11
+2014,Primera Division,13,-17,56,39,16,38,38,40,18,38,2025-05-25,2292,2024-08-18,745,CD Leganés,9
+2014,Primera Division,8,-21,61,40,22,38,38,32,19,38,2025-05-25,2292,2024-08-18,275,UD Las Palmas,8
+2014,Primera Division,4,-64,90,26,30,38,38,16,20,38,2025-05-25,2292,2024-08-18,250,Real Valladolid CF,4
+2014,Primera Division,1,33,20,53,2,19,19,49,1,19,2026-05-24,2429,2025-08-17,81,FC Barcelona,16
+2014,Primera Division,3,24,17,41,2,19,19,45,2,19,2026-05-24,2429,2025-08-17,86,Real Madrid CF,14
+2014,Primera Division,2,20,17,37,3,19,18,41,3,19,2026-05-24,2429,2025-08-17,94,Villarreal CF,13
+2014,Primera Division,5,17,17,34,3,19,19,38,4,19,2026-05-24,2429,2025-08-17,78,Club Atlético de Madrid,11
+2014,Primera Division,3,3,19,22,5,19,18,33,5,19,2026-05-24,2429,2025-08-17,80,RCD Espanyol de Barcelona,10
+2014,Primera Division,8,6,25,31,4,19,19,29,6,19,2026-05-24,2429,2025-08-17,90,Real Betis Balompié,7
+2014,Primera Division,8,4,20,24,4,19,18,26,7,19,2026-05-24,2429,2025-08-17,558,RC Celta de Vigo,6
+2014,Primera Division,3,-8,25,17,9,19,19,24,8,19,2026-05-24,2429,2025-08-17,77,Athletic Club,7
+2014,Primera Division,8,1,24,25,6,19,19,23,9,19,2026-05-24,2429,2025-08-17,285,Elche CF,5
+2014,Primera Division,6,-3,27,24,8,19,19,21,10,19,2026-05-24,2429,2025-08-17,92,Real Sociedad de Fútbol,5
+2014,Primera Division,3,-10,25,15,10,19,19,21,11,19,2026-05-24,2429,2025-08-17,82,Getafe CF,6
+2014,Primera Division,6,-16,34,18,8,19,19,21,12,19,2026-05-24,2429,2025-08-17,298,Girona FC,5
+2014,Primera Division,2,-5,29,24,10,19,18,20,13,19,2026-05-24,2429,2025-08-17,559,Sevilla FC,6
+2014,Primera Division,4,-4,22,18,10,19,19,19,14,19,2026-05-24,2429,2025-08-17,79,CA Osasuna,5
+2014,Primera Division,7,-7,21,14,7,19,18,19,15,19,2026-05-24,2429,2025-08-17,87,Rayo Vallecano de Madrid,4
+2014,Primera Division,4,-8,24,16,10,19,19,19,16,19,2026-05-24,2429,2025-08-17,263,Deportivo Alavés,5
+2014,Primera Division,6,-6,26,20,8,19,18,18,17,19,2026-05-24,2429,2025-08-17,89,RCD Mallorca,4
+2014,Primera Division,8,-13,31,18,8,19,19,17,18,19,2026-05-24,2429,2025-08-17,95,Valencia CF,3
+2014,Primera Division,4,-9,29,20,10,19,17,13,19,19,2026-05-24,2429,2025-08-17,88,Levante UD,3
+2014,Primera Division,7,-19,28,9,10,19,19,13,20,19,2026-05-24,2429,2025-08-17,1048,Real Oviedo,2
