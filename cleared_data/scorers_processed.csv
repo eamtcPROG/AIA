@@ -1,0 +1,151 @@
+assists,competition_code,competition_id,competition_name,goals,penalties,player_dateOfBirth,player_firstName,player_id,player_lastName,player_name,player_nationality,player_position,player_shirtNumber,season_endDate,season_id,season_startDate,team_crest,team_id,team_name,team_shortName,team_tla
+8.0,PD,2014,Primera Division,24,7.0,1997-06-21,Artem,24217,Dovbyk,Artem Dovbyk,Ukraine,,7.0,2024-05-26,1577,2023-08-13,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+6.0,PD,2014,Primera Division,23,0.0,1995-12-05,Alexander,8167,Sørloth,Alexander Sørloth,Norway,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+6.0,PD,2014,Primera Division,19,1.0,2003-06-29,Jude,125010,Bellingham,Jude Bellingham,England,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+8.0,PD,2014,Primera Division,19,4.0,1988-08-21,Robert,371,Lewandowski,Robert Lewandowski,Poland,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+2.0,PD,2014,Primera Division,17,3.0,1991-07-22,Ante,2237,Budimir,Ante Budimir,Croatia,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA
+2.0,PD,2014,Primera Division,16,1.0,1997-06-01,Youssef,32836,En-Nesyri,Youssef En-Nesyri,Morocco,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/559.png,559,Sevilla FC,Sevilla FC,SEV
+6.0,PD,2014,Primera Division,16,4.0,1991-03-21,Antoine,114,Griezmann,Antoine Griezmann,France,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+2.0,PD,2014,Primera Division,15,0.0,1992-10-23,Unknown,7819,Álvaro Morata,Álvaro Morata,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+6.0,PD,2014,Primera Division,15,1.0,2000-07-12,Unknown,1556,Vinícius Junior,Vinicius Junior,Brazil,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+1.0,PD,2014,Primera Division,15,4.0,1997-04-05,Unknown,69,Borja Mayoral,Borja Mayoral,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET
+5.0,PD,2014,Primera Division,14,0.0,1996-09-12,Unknown,81565,Guruzeta,Gorka Guruzeta,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+2.0,PD,2014,Primera Division,13,0.0,1999-11-10,Unknown,32762,Hugo Duro,Hugo Duro,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+3.0,PD,2014,Primera Division,13,0.0,2000-02-06,Jørgen,213269,Strand Larsen,Jørgen Strand Larsen,Norway,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL
+4.0,PD,2014,Primera Division,12,0.0,1994-06-15,Unknown,32629,Iñaki Williams,Iñaki Williams,Ghana,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+1.0,PD,2014,Primera Division,11,4.0,1995-05-31,Myrto,83795,Uzuni,Myrto Uzuni,Albania,,77.0,2024-05-26,1577,2023-08-13,https://crests.football-data.org/83.png,83,Granada CF,Granada,GRA
+5.0,PD,2014,Primera Division,10,0.0,2001-01-09,Unknown,1324,Rodrygo,Rodrygo,Brazil,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+4.0,PD,2014,Primera Division,10,0.0,1991-11-23,Unknown,8,Willian José,Willian José,Brazil,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+7.0,PD,2014,Primera Division,10,2.0,1992-04-07,Unknown,32719,Gerard Moreno,Gerard Moreno,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+2.0,PD,2014,Primera Division,10,0.0,1990-03-27,Unknown,7938,Joselu,Joselu,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+2.0,PD,2014,Primera Division,9,0.0,1993-07-29,Unknown,7936,Ayoze Pérez,Ayoze Pérez,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+1.0,PD,2014,Primera Division,9,0.0,Unknown,Unknown,215434,Samu Aghehowa,Samu Omorodion,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA
+3.0,PD,2014,Primera Division,9,0.0,2001-09-30,Unknown,151029,Sergio Arribas,Sergio Arribas,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/267.png,267,UD Almería,Almería,ALM
+3.0,PD,2014,Primera Division,9,1.0,1995-03-09,Ángel,125,Correa,Ángel Correa,Argentina,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+10.0,PD,2014,Primera Division,9,0.0,2004-04-10,Unknown,146352,Sávinho,Sávio,Brazil,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+3.0,PD,2014,Primera Division,9,2.0,1997-04-21,Unknown,180137,Mikel Oyarzabal,Mikel Oyarzabal,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+10.0,PD,2014,Primera Division,9,3.0,1987-08-01,Unknown,3201,Iago Aspas,Iago Aspas,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL
+3.0,PD,2014,Primera Division,8,0.0,1986-10-12,Cristhian,3171,Stuani,Cristhian Stuani,Uruguay,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+6.0,PD,2014,Primera Division,8,2.0,1992-04-21,Unknown,66,Isco,Isco,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+7.0,PD,2014,Primera Division,8,0.0,1997-11-15,Viktor,16173,Tsygankov,Viktor Tsyhankov,Ukraine,,15.0,2024-05-26,1577,2023-08-13,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+0.0,PD,2014,Primera Division,8,0.0,2003-05-11,Unknown,214533,Fermín López,Fermín López,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+5.0,PD,2014,Primera Division,8,0.0,1999-08-03,Unknown,7887,Brahim Díaz,Brahim Diaz,Morocco,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+7.0,PD,2014,Primera Division,8,2.0,2001-10-01,Mason,101075,Greenwood,Mason Greenwood,England,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET
+4.0,PD,2014,Primera Division,7,0.0,2001-06-04,Takefusa,48555,Kubo,Takefusa Kubo,Japan,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+1.0,PD,2014,Primera Division,7,7.0,1998-08-11,Unknown,33270,Pepelu,Pepelu,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+3.0,PD,2014,Primera Division,7,0.0,2000-02-29,Unknown,33154,Ferran Torres,Ferrán Torres,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+5.0,PD,2014,Primera Division,7,0.0,1992-05-21,Unknown,33523,Portu,Portu,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+2.0,PD,2014,Primera Division,7,1.0,1994-04-24,Vedat,30059,Muriqi,Vedat Muriqi,Kosovo,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL
+4.0,PD,2014,Primera Division,7,0.0,1999-11-10,Unknown,39265,João Félix,João Félix,Portugal,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+1.0,PD,2014,Primera Division,7,0.0,1999-08-02,Anastasios,43285,Douvikas,Anastasios Douvikas,Greece,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL
+3.0,PD,2014,Primera Division,7,1.0,1995-07-04,Unknown,2294,Álex Berenguer,Álex Berenguer,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+0.0,PD,2014,Primera Division,7,0.0,1987-07-23,Unknown,213275,José Morales,José Morales,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+4.0,PD,2014,Primera Division,6,0.0,1995-01-30,Unknown,70,Marcos Llorente,Marcos Llorente,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+1.0,PD,2014,Primera Division,6,0.0,1992-10-27,Unknown,32312,Álvaro García,Álvaro García,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY
+1.0,PD,2014,Primera Division,6,0.0,1992-12-07,Unknown,33681,Abdón,Abdón Prats,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL
+2.0,PD,2014,Primera Division,6,1.0,2001-04-25,Unknown,180104,Bryan Zaragoza,Bryan Zaragoza,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/83.png,83,Granada CF,Granada,GRA
+3.0,PD,2014,Primera Division,6,0.0,1996-02-28,Lucas,11113,Boyé,Lucas Boyé,Argentina,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/83.png,83,Granada CF,Granada,GRA
+9.0,PD,2014,Primera Division,6,1.0,1996-12-14,Unknown,37428,Raphinha,Raphinha,Brazil,,7.0,2024-05-26,1577,2023-08-13,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+2.0,PD,2014,Primera Division,6,0.0,1996-03-05,Unknown,119386,Kirian Rodríguez,Kirian Rodríguez,Spain,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/275.png,275,UD Las Palmas,Las Palmas,LPA
+0.0,PD,2014,Primera Division,6,1.0,1997-12-02,Luis,32386,Suárez,Luis Suárez,Colombia,,,2024-05-26,1577,2023-08-13,https://crests.football-data.org/267.png,267,UD Almería,Almería,ALM
+0.0,PD,2014,Primera Division,6,0.0,1992-08-26,Unknown,32721,Leo Baptistão,Léo Baptistão,Brazil,,10.0,2024-05-26,1577,2023-08-13,https://crests.football-data.org/267.png,267,UD Almería,Almería,ALM
+3.0,PD,2014,Primera Division,31,7.0,1998-12-20,Kylian,3374,Mbappé,Kylian Mbappé,France,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+2.0,PD,2014,Primera Division,27,3.0,1988-08-21,Robert,371,Lewandowski,Robert Lewandowski,Poland,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+4.0,PD,2014,Primera Division,21,8.0,1991-07-22,Ante,2237,Budimir,Ante Budimir,Croatia,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA
+2.0,PD,2014,Primera Division,20,1.0,1995-12-05,Alexander,8167,Sørloth,Alexander Sørloth,Norway,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+1.0,PD,2014,Primera Division,19,0.0,1993-07-29,Unknown,7936,Ayoze Pérez,Ayoze Pérez,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+11.0,PD,2014,Primera Division,18,2.0,1996-12-14,Unknown,37428,Raphinha,Raphinha,Brazil,,7.0,2025-05-25,2292,2024-08-18,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+4.0,PD,2014,Primera Division,17,4.0,2000-01-31,Julián,98571,Alvarez,Julián Álvarez,Argentina,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+1.0,PD,2014,Primera Division,15,3.0,2000-04-25,Unknown,126878,Oihan Sancet,Oihan Sancet,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+0.0,PD,2014,Primera Division,13,3.0,1989-11-25,Unknown,33358,Kike García,Kike García,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA
+4.0,PD,2014,Primera Division,12,5.0,1998-05-25,Unknown,81168,Javier Puado,Javi Puado,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP
+2.0,PD,2014,Primera Division,11,1.0,1999-11-10,Unknown,32762,Hugo Duro,Hugo Duro,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+2.0,PD,2014,Primera Division,11,1.0,1997-09-24,Dodi,8128,Lukébakio,Dodi Lukebakio,Belgium,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/559.png,559,Sevilla FC,Sevilla FC,SEV
+2.0,PD,2014,Primera Division,11,0.0,1993-01-17,Unknown,32056,Borja Iglesias,Borja Iglesias,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL
+5.0,PD,2014,Primera Division,11,1.0,2000-01-12,Thierno,171995,Barry,Thierno Barry,France,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+1.0,PD,2014,Primera Division,11,3.0,1986-10-12,Cristhian,3171,Stuani,Cristhian Stuani,Uruguay,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+9.0,PD,2014,Primera Division,11,2.0,2000-07-12,Unknown,1556,Vinícius Junior,Vinicius Junior,Brazil,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+6.0,PD,2014,Primera Division,10,5.0,1987-08-01,Unknown,3201,Iago Aspas,Iago Aspas,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL
+3.0,PD,2014,Primera Division,10,2.0,1998-05-07,Unknown,23132,Dani Olmo,Dani Olmo,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+5.0,PD,2014,Primera Division,10,0.0,2000-02-29,Unknown,33154,Ferran Torres,Ferrán Torres,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+0.0,PD,2014,Primera Division,10,3.0,1995-09-30,Mauro,32758,Arambarri,Mauro Arambarri,Uruguay,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET
+3.0,PD,2014,Primera Division,10,2.0,2002-07-19,Unknown,125151,Fábio Silva,Fábio Silva,Portugal,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/275.png,275,UD Las Palmas,Las Palmas,LPA
+3.0,PD,2014,Primera Division,9,1.0,1995-07-09,Unknown,11589,Sandro,Sandro,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/275.png,275,UD Las Palmas,Las Palmas,LPA
+13.0,PD,2014,Primera Division,9,0.0,2007-07-13,Unknown,202283,Lamine Yamal,Lamine Yamal,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+2.0,PD,2014,Primera Division,9,4.0,1997-04-21,Unknown,180137,Mikel Oyarzabal,Mikel Oyarzabal,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+10.0,PD,2014,Primera Division,9,1.0,2003-06-29,Jude,125010,Bellingham,Jude Bellingham,England,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+7.0,PD,2014,Primera Division,9,5.0,1992-04-21,Unknown,66,Isco,Isco,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+4.0,PD,2014,Primera Division,8,0.0,2002-05-13,Unknown,180061,Diego López,Diego López,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+7.0,PD,2014,Primera Division,8,1.0,1991-03-21,Antoine,114,Griezmann,Antoine Griezmann,France,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+3.0,PD,2014,Primera Division,8,2.0,1996-04-09,Giovani,3216,Lo Celso,Giovani Lo Celso,Argentina,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+6.0,PD,2014,Primera Division,8,4.0,1995-10-29,Unknown,33131,Dani Raba,Dani Raba,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/745.png,745,CD Leganés,Leganés,LEG
+2.0,PD,2014,Primera Division,7,2.0,1994-04-24,Vedat,30059,Muriqi,Vedat Muriqi,Kosovo,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL
+2.0,PD,2014,Primera Division,7,0.0,1996-09-12,Unknown,81565,Guruzeta,Gorka Guruzeta,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+2.0,PD,2014,Primera Division,7,1.0,1995-04-17,Cyle,15958,Larin,Cyle Larin,Canada,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL
+10.0,PD,2014,Primera Division,7,0.0,2001-07-20,Unknown,213278,Álex Baena,Álex Baena,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+3.0,PD,2014,Primera Division,6,0.0,1997-02-20,Unknown,133276,Jorge De Frutos,Jorge de Frutos,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY
+4.0,PD,2014,Primera Division,6,0.0,2001-01-09,Unknown,1324,Rodrygo,Rodrygo,Brazil,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+4.0,PD,2014,Primera Division,6,0.0,1998-07-22,Federico,96,Valverde,Federico Valverde,Uruguay,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+2.0,PD,2014,Primera Division,6,0.0,2003-09-30,Unknown,150533,Alberto Moleiro,Alberto Moleiro,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/275.png,275,UD Las Palmas,Las Palmas,LPA
+9.0,PD,2014,Primera Division,6,0.0,1994-06-15,Unknown,32629,Iñaki Williams,Iñaki Williams,Ghana,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+7.0,PD,2014,Primera Division,6,0.0,1995-07-04,Unknown,2294,Álex Berenguer,Álex Berenguer,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+0.0,PD,2014,Primera Division,6,0.0,2002-07-03,Unknown,180218,Roberto Fernández,Roberto Fernández,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP
+5.0,PD,2014,Primera Division,6,0.0,2003-05-11,Unknown,214533,Fermín López,Fermín López,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+4.0,PD,2014,Primera Division,5,0.0,2000-04-25,Unknown,32848,Juan Cruz,Juan Cruz,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/745.png,745,CD Leganés,Leganés,LEG
+5.0,PD,2014,Primera Division,5,0.0,1993-07-14,Unknown,32212,Rubén García,Rubén García,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA
+0.0,PD,2014,Primera Division,5,0.0,2001-06-04,Takefusa,48555,Kubo,Takefusa Kubo,Japan,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+5.0,PD,2014,Primera Division,5,1.0,1999-04-23,Unknown,213404,Carlos Vicente,Carlos Vicente,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA
+5.0,PD,2014,Primera Division,5,0.0,2002-07-12,Unknown,157135,Nico Williams,Nico Williams,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+4.0,PD,2014,Primera Division,5,1.0,2001-11-27,Unknown,119093,Aimar Oroz,Aimar Oroz,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA
+1.0,PD,2014,Primera Division,5,1.0,1997-04-05,Unknown,69,Borja Mayoral,Borja Mayoral,Spain,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET
+2.0,PD,2014,Primera Division,5,4.0,1994-03-20,Mamadou,8921,Sylla,Mamadou Sylla,Senegal,,,2025-05-25,2292,2024-08-18,https://crests.football-data.org/250.png,250,Real Valladolid CF,Valladolid,VDD
+4.0,PD,2014,Primera Division,18,5.0,1998-12-20,Kylian,3374,Mbappé,Kylian Mbappé,France,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+2.0,PD,2014,Primera Division,11,0.0,2000-02-29,Unknown,33154,Ferran Torres,Ferrán Torres,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+0.0,PD,2014,Primera Division,10,3.0,1994-04-24,Vedat,30059,Muriqi,Vedat Muriqi,Kosovo,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/89.png,89,RCD Mallorca,Mallorca,MAL
+1.0,PD,2014,Primera Division,9,1.0,1988-08-21,Robert,371,Lewandowski,Robert Lewandowski,Poland,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+1.0,PD,2014,Primera Division,8,2.0,1993-01-17,Unknown,32056,Borja Iglesias,Borja Iglesias,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/558.png,558,RC Celta de Vigo,Celta,CEL
+3.0,PD,2014,Primera Division,8,1.0,1999-04-20,Cucho,32415,Hernández,Cucho Hernández,Colombia,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+3.0,PD,2014,Primera Division,8,0.0,2003-09-30,Unknown,150533,Alberto Moleiro,Alberto Moleiro,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+3.0,PD,2014,Primera Division,7,1.0,1996-12-14,Unknown,37428,Raphinha,Raphinha,Brazil,,7.0,2026-05-24,2429,2025-08-17,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+7.0,PD,2014,Primera Division,7,2.0,2007-07-13,Unknown,202283,Lamine Yamal,Lamine Yamal,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+3.0,PD,2014,Primera Division,7,2.0,2000-01-31,Julián,98571,Alvarez,Julián Álvarez,Argentina,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+4.0,PD,2014,Primera Division,6,0.0,2003-10-14,Karl,203439,Etta Eyong,Karl Etta Eyong,Cameroon,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/88.png,88,Levante UD,Levante,LEV
+0.0,PD,2014,Primera Division,6,0.0,1992-09-23,Unknown,32398,Pere Milla,Pere Milla,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP
+0.0,PD,2014,Primera Division,6,0.0,1997-06-18,Unknown,4098,Rafa Mir,Rafael Mir,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/285.png,285,Elche CF,Elche,ELC
+0.0,PD,2014,Primera Division,6,3.0,1991-07-22,Ante,2237,Budimir,Ante Budimir,Croatia,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/79.png,79,CA Osasuna,Osasuna,OSA
+0.0,PD,2014,Primera Division,6,0.0,1999-11-10,Unknown,32762,Hugo Duro,Hugo Duro,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+0.0,PD,2014,Primera Division,6,0.0,1991-03-21,Antoine,114,Griezmann,Antoine Griezmann,France,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+1.0,PD,2014,Primera Division,5,0.0,1997-02-20,Unknown,133276,Jorge De Frutos,Jorge de Frutos,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY
+0.0,PD,2014,Primera Division,5,0.0,1995-12-05,Alexander,8167,Sørloth,Alexander Sørloth,Norway,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/78.png,78,Club Atlético de Madrid,Atleti,ATL
+0.0,PD,2014,Primera Division,5,0.0,1999-02-08,Tajon,113175,Buchanan,Tajon Buchanan,Canada,,17.0,2026-05-24,2429,2025-08-17,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+5.0,PD,2014,Primera Division,5,1.0,2000-07-12,Unknown,1556,Vinícius Junior,Vinicius Junior,Brazil,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+3.0,PD,2014,Primera Division,5,3.0,1997-04-21,Unknown,180137,Mikel Oyarzabal,Mikel Oyarzabal,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+0.0,PD,2014,Primera Division,5,1.0,2002-01-04,Vladyslav,160819,Vanat,Vladyslav Vanat,Ukraine,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+3.0,PD,2014,Primera Division,5,0.0,2000-10-31,Georges,136646,Mikautadze,Georges Mikautadze,Georgia,,18.0,2026-05-24,2429,2025-08-17,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+3.0,PD,2014,Primera Division,5,0.0,1998-05-07,Unknown,23132,Dani Olmo,Dani Olmo,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+3.0,PD,2014,Primera Division,5,0.0,2000-02-24,Unknown,97085,Antony,Antony,Brazil,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+0.0,PD,2014,Primera Division,5,1.0,1992-04-07,Unknown,32719,Gerard Moreno,Gerard Moreno,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/94.png,94,Villarreal CF,Villarreal,VIL
+2.0,PD,2014,Primera Division,4,0.0,2001-04-10,Unknown,156746,Iván Romero,Iván Romero,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/88.png,88,Levante UD,Levante,LEV
+0.0,PD,2014,Primera Division,4,3.0,1999-04-23,Unknown,213404,Carlos Vicente,Carlos Vicente,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA
+0.0,PD,2014,Primera Division,4,0.0,1995-11-06,Unknown,1760,André Silva,André Silva,Portugal,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/285.png,285,Elche CF,Elche,ELC
+1.0,PD,2014,Primera Division,4,0.0,1997-04-05,Unknown,69,Borja Mayoral,Borja Mayoral,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET
+4.0,PD,2014,Primera Division,4,0.0,1996-02-22,Unknown,33117,Pablo Fornals,Pablo Fornals,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+4.0,PD,2014,Primera Division,4,0.0,2003-05-11,Unknown,214533,Fermín López,Fermín López,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/81.png,81,FC Barcelona,Barça,FCB
+1.0,PD,2014,Primera Division,4,1.0,2002-07-03,Unknown,180218,Roberto Fernández,Roberto Fernández,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP
+0.0,PD,2014,Primera Division,4,1.0,1996-02-28,Lucas,11113,Boyé,Lucas Boyé,Argentina,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA
+3.0,PD,2014,Primera Division,4,0.0,2003-06-29,Jude,125010,Bellingham,Jude Bellingham,England,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+1.0,PD,2014,Primera Division,4,0.0,1996-11-29,Unknown,3259,Gonçalo Guedes,Gonçalo Guedes,Portugal,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+2.0,PD,2014,Primera Division,4,0.0,1997-11-15,Viktor,16173,Tsygankov,Viktor Tsyhankov,Ukraine,,15.0,2026-05-24,2429,2025-08-17,https://crests.football-data.org/298.png,298,Girona FC,Girona,GIR
+1.0,PD,2014,Primera Division,3,0.0,1992-10-27,Unknown,32312,Álvaro García,Álvaro García,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/87.png,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY
+1.0,PD,2014,Primera Division,3,0.0,1997-06-30,Unknown,11733,Toni Martínez,Toni Martínez,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/263.png,263,Deportivo Alavés,Alavés,ALA
+0.0,PD,2014,Primera Division,3,0.0,2002-05-13,Unknown,180061,Diego López,Diego López,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+0.0,PD,2014,Primera Division,3,0.0,2005-04-02,Unknown,249599,Adri Liso,Adri Liso,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/82.png,82,Getafe CF,Getafe,GET
+3.0,PD,2014,Primera Division,3,1.0,2002-07-12,Unknown,157135,Nico Williams,Nico Williams,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+1.0,PD,2014,Primera Division,3,0.0,2002-04-12,Unknown,101870,Robert Navarro,Roberto Navarro,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/77.png,77,Athletic Club,Athletic,ATH
+1.0,PD,2014,Primera Division,3,0.0,1996-03-22,Unknown,33045,Aitor Ruibal,Aitor Ruibal,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/90.png,90,Real Betis Balompié,Real Betis,BET
+2.0,PD,2014,Primera Division,3,0.0,2002-03-16,Unknown,137485,Germán Valera,Germán Valera,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/285.png,285,Elche CF,Elche,ELC
+3.0,PD,2014,Primera Division,3,0.0,2001-12-27,Unknown,101182,Ander Barrenetxea,Ander Barrenetxea,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/92.png,92,Real Sociedad de Fútbol,Real Sociedad,RSO
+1.0,PD,2014,Primera Division,3,0.0,1997-01-31,Arnaut,9870,Danjuma,Arnaut Danjuma,Netherlands,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/95.png,95,Valencia CF,Valencia,VAL
+0.0,PD,2014,Primera Division,3,0.0,2000-05-18,Unknown,213043,Isaac Romero,Isaac,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/559.png,559,Sevilla FC,Sevilla FC,SEV
+6.0,PD,2014,Primera Division,3,0.0,2005-02-25,Arda,169162,Güler,Arda Guler,Turkey,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/86.png,86,Real Madrid CF,Real Madrid,RMA
+1.0,PD,2014,Primera Division,3,0.0,2001-10-29,Unknown,186564,Carlos Romero,Carlos Romero,Spain,,,2026-05-24,2429,2025-08-17,https://crests.football-data.org/80.png,80,RCD Espanyol de Barcelona,Espanyol,ESP

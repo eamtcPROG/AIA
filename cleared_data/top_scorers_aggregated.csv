@@ -1,0 +1,151 @@
+season_id,player_name,goals,assists,penalties,team_name
+1577,Artem Dovbyk,24,8.0,7.0,Girona FC
+1577,Alexander Sørloth,23,6.0,0.0,Villarreal CF
+1577,Jude Bellingham,19,6.0,1.0,Real Madrid CF
+1577,Robert Lewandowski,19,8.0,4.0,FC Barcelona
+1577,Ante Budimir,17,2.0,3.0,CA Osasuna
+1577,Antoine Griezmann,16,6.0,4.0,Club Atlético de Madrid
+1577,Youssef En-Nesyri,16,2.0,1.0,Sevilla FC
+1577,Borja Mayoral,15,1.0,4.0,Getafe CF
+1577,Vinicius Junior,15,6.0,1.0,Real Madrid CF
+1577,Álvaro Morata,15,2.0,0.0,Club Atlético de Madrid
+1577,Gorka Guruzeta,14,5.0,0.0,Athletic Club
+1577,Hugo Duro,13,2.0,0.0,Valencia CF
+1577,Jørgen Strand Larsen,13,3.0,0.0,RC Celta de Vigo
+1577,Iñaki Williams,12,4.0,0.0,Athletic Club
+1577,Myrto Uzuni,11,1.0,4.0,Granada CF
+1577,Gerard Moreno,10,7.0,2.0,Villarreal CF
+1577,Joselu,10,2.0,0.0,Real Madrid CF
+1577,Rodrygo,10,5.0,0.0,Real Madrid CF
+1577,Willian José,10,4.0,0.0,Real Betis Balompié
+1577,Ayoze Pérez,9,2.0,0.0,Real Betis Balompié
+1577,Iago Aspas,9,10.0,3.0,RC Celta de Vigo
+1577,Mikel Oyarzabal,9,3.0,2.0,Real Sociedad de Fútbol
+1577,Samu Omorodion,9,1.0,0.0,Deportivo Alavés
+1577,Sergio Arribas,9,3.0,0.0,UD Almería
+1577,Sávio,9,10.0,0.0,Girona FC
+1577,Ángel Correa,9,3.0,1.0,Club Atlético de Madrid
+1577,Brahim Diaz,8,5.0,0.0,Real Madrid CF
+1577,Cristhian Stuani,8,3.0,0.0,Girona FC
+1577,Fermín López,8,0.0,0.0,FC Barcelona
+1577,Isco,8,6.0,2.0,Real Betis Balompié
+1577,Mason Greenwood,8,7.0,2.0,Getafe CF
+1577,Viktor Tsyhankov,8,7.0,0.0,Girona FC
+1577,Anastasios Douvikas,7,1.0,0.0,RC Celta de Vigo
+1577,Ferrán Torres,7,3.0,0.0,FC Barcelona
+1577,José Morales,7,0.0,0.0,Villarreal CF
+1577,João Félix,7,4.0,0.0,FC Barcelona
+1577,Pepelu,7,1.0,7.0,Valencia CF
+1577,Portu,7,5.0,0.0,Girona FC
+1577,Takefusa Kubo,7,4.0,0.0,Real Sociedad de Fútbol
+1577,Vedat Muriqi,7,2.0,1.0,RCD Mallorca
+1577,Álex Berenguer,7,3.0,1.0,Athletic Club
+1577,Abdón Prats,6,1.0,0.0,RCD Mallorca
+1577,Bryan Zaragoza,6,2.0,1.0,Granada CF
+1577,Kirian Rodríguez,6,2.0,0.0,UD Las Palmas
+1577,Lucas Boyé,6,3.0,0.0,Granada CF
+1577,Luis Suárez,6,0.0,1.0,UD Almería
+1577,Léo Baptistão,6,0.0,0.0,UD Almería
+1577,Marcos Llorente,6,4.0,0.0,Club Atlético de Madrid
+1577,Raphinha,6,9.0,1.0,FC Barcelona
+1577,Álvaro García,6,1.0,0.0,Rayo Vallecano de Madrid
+2292,Kylian Mbappé,31,3.0,7.0,Real Madrid CF
+2292,Robert Lewandowski,27,2.0,3.0,FC Barcelona
+2292,Ante Budimir,21,4.0,8.0,CA Osasuna
+2292,Alexander Sørloth,20,2.0,1.0,Club Atlético de Madrid
+2292,Ayoze Pérez,19,1.0,0.0,Villarreal CF
+2292,Raphinha,18,11.0,2.0,FC Barcelona
+2292,Julián Álvarez,17,4.0,4.0,Club Atlético de Madrid
+2292,Oihan Sancet,15,1.0,3.0,Athletic Club
+2292,Kike García,13,0.0,3.0,Deportivo Alavés
+2292,Javi Puado,12,4.0,5.0,RCD Espanyol de Barcelona
+2292,Borja Iglesias,11,2.0,0.0,RC Celta de Vigo
+2292,Cristhian Stuani,11,1.0,3.0,Girona FC
+2292,Dodi Lukebakio,11,2.0,1.0,Sevilla FC
+2292,Hugo Duro,11,2.0,1.0,Valencia CF
+2292,Thierno Barry,11,5.0,1.0,Villarreal CF
+2292,Vinicius Junior,11,9.0,2.0,Real Madrid CF
+2292,Dani Olmo,10,3.0,2.0,FC Barcelona
+2292,Ferrán Torres,10,5.0,0.0,FC Barcelona
+2292,Fábio Silva,10,3.0,2.0,UD Las Palmas
+2292,Iago Aspas,10,6.0,5.0,RC Celta de Vigo
+2292,Mauro Arambarri,10,0.0,3.0,Getafe CF
+2292,Isco,9,7.0,5.0,Real Betis Balompié
+2292,Jude Bellingham,9,10.0,1.0,Real Madrid CF
+2292,Lamine Yamal,9,13.0,0.0,FC Barcelona
+2292,Mikel Oyarzabal,9,2.0,4.0,Real Sociedad de Fútbol
+2292,Sandro,9,3.0,1.0,UD Las Palmas
+2292,Antoine Griezmann,8,7.0,1.0,Club Atlético de Madrid
+2292,Dani Raba,8,6.0,4.0,CD Leganés
+2292,Diego López,8,4.0,0.0,Valencia CF
+2292,Giovani Lo Celso,8,3.0,2.0,Real Betis Balompié
+2292,Cyle Larin,7,2.0,1.0,RCD Mallorca
+2292,Gorka Guruzeta,7,2.0,0.0,Athletic Club
+2292,Vedat Muriqi,7,2.0,2.0,RCD Mallorca
+2292,Álex Baena,7,10.0,0.0,Villarreal CF
+2292,Alberto Moleiro,6,2.0,0.0,UD Las Palmas
+2292,Federico Valverde,6,4.0,0.0,Real Madrid CF
+2292,Fermín López,6,5.0,0.0,FC Barcelona
+2292,Iñaki Williams,6,9.0,0.0,Athletic Club
+2292,Jorge de Frutos,6,3.0,0.0,Rayo Vallecano de Madrid
+2292,Roberto Fernández,6,0.0,0.0,RCD Espanyol de Barcelona
+2292,Rodrygo,6,4.0,0.0,Real Madrid CF
+2292,Álex Berenguer,6,7.0,0.0,Athletic Club
+2292,Aimar Oroz,5,4.0,1.0,CA Osasuna
+2292,Borja Mayoral,5,1.0,1.0,Getafe CF
+2292,Carlos Vicente,5,5.0,1.0,Deportivo Alavés
+2292,Juan Cruz,5,4.0,0.0,CD Leganés
+2292,Mamadou Sylla,5,2.0,4.0,Real Valladolid CF
+2292,Nico Williams,5,5.0,0.0,Athletic Club
+2292,Rubén García,5,5.0,0.0,CA Osasuna
+2292,Takefusa Kubo,5,0.0,0.0,Real Sociedad de Fútbol
+2429,Kylian Mbappé,18,4.0,5.0,Real Madrid CF
+2429,Ferrán Torres,11,2.0,0.0,FC Barcelona
+2429,Vedat Muriqi,10,0.0,3.0,RCD Mallorca
+2429,Robert Lewandowski,9,1.0,1.0,FC Barcelona
+2429,Alberto Moleiro,8,3.0,0.0,Villarreal CF
+2429,Borja Iglesias,8,1.0,2.0,RC Celta de Vigo
+2429,Cucho Hernández,8,3.0,1.0,Real Betis Balompié
+2429,Julián Álvarez,7,3.0,2.0,Club Atlético de Madrid
+2429,Lamine Yamal,7,7.0,2.0,FC Barcelona
+2429,Raphinha,7,3.0,1.0,FC Barcelona
+2429,Ante Budimir,6,0.0,3.0,CA Osasuna
+2429,Antoine Griezmann,6,0.0,0.0,Club Atlético de Madrid
+2429,Hugo Duro,6,0.0,0.0,Valencia CF
+2429,Karl Etta Eyong,6,4.0,0.0,Levante UD
+2429,Pere Milla,6,0.0,0.0,RCD Espanyol de Barcelona
+2429,Rafael Mir,6,0.0,0.0,Elche CF
+2429,Alexander Sørloth,5,0.0,0.0,Club Atlético de Madrid
+2429,Antony,5,3.0,0.0,Real Betis Balompié
+2429,Dani Olmo,5,3.0,0.0,FC Barcelona
+2429,Georges Mikautadze,5,3.0,0.0,Villarreal CF
+2429,Gerard Moreno,5,0.0,1.0,Villarreal CF
+2429,Jorge de Frutos,5,1.0,0.0,Rayo Vallecano de Madrid
+2429,Mikel Oyarzabal,5,3.0,3.0,Real Sociedad de Fútbol
+2429,Tajon Buchanan,5,0.0,0.0,Villarreal CF
+2429,Vinicius Junior,5,5.0,1.0,Real Madrid CF
+2429,Vladyslav Vanat,5,0.0,1.0,Girona FC
+2429,André Silva,4,0.0,0.0,Elche CF
+2429,Borja Mayoral,4,1.0,0.0,Getafe CF
+2429,Carlos Vicente,4,0.0,3.0,Deportivo Alavés
+2429,Fermín López,4,4.0,0.0,FC Barcelona
+2429,Gonçalo Guedes,4,1.0,0.0,Real Sociedad de Fútbol
+2429,Iván Romero,4,2.0,0.0,Levante UD
+2429,Jude Bellingham,4,3.0,0.0,Real Madrid CF
+2429,Lucas Boyé,4,0.0,1.0,Deportivo Alavés
+2429,Pablo Fornals,4,4.0,0.0,Real Betis Balompié
+2429,Roberto Fernández,4,1.0,1.0,RCD Espanyol de Barcelona
+2429,Viktor Tsyhankov,4,2.0,0.0,Girona FC
+2429,Adri Liso,3,0.0,0.0,Getafe CF
+2429,Aitor Ruibal,3,1.0,0.0,Real Betis Balompié
+2429,Ander Barrenetxea,3,3.0,0.0,Real Sociedad de Fútbol
+2429,Arda Guler,3,6.0,0.0,Real Madrid CF
+2429,Arnaut Danjuma,3,1.0,0.0,Valencia CF
+2429,Carlos Romero,3,1.0,0.0,RCD Espanyol de Barcelona
+2429,Diego López,3,0.0,0.0,Valencia CF
+2429,Germán Valera,3,2.0,0.0,Elche CF
+2429,Isaac,3,0.0,0.0,Sevilla FC
+2429,Nico Williams,3,3.0,1.0,Athletic Club
+2429,Roberto Navarro,3,1.0,0.0,Athletic Club
+2429,Toni Martínez,3,1.0,0.0,Deportivo Alavés
+2429,Álvaro García,3,1.0,0.0,Rayo Vallecano de Madrid
