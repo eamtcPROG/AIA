@@ -161,7 +161,8 @@ columns_to_drop_matches = ['raw_json', 'referees_json', 'area_name', 'attendance
                           'odds_draw', 'odds_homeWin', 'stage', 'status', 'utcDate', 'venue',
                           'score_extraTime_away', 'score_extraTime_home',
                           'score_penalties_away', 'score_penalties_home',
-                          'score_regularTime_away', 'score_regularTime_home']
+                          'score_regularTime_away', 'score_regularTime_home',
+                          'score_duration']
 matches_df_clean = matches_df.drop(columns=[col for col in columns_to_drop_matches if col in matches_df.columns])
 
 # Handle missing values
