@@ -1,61 +1,61 @@
-area_code,area_id,area_name,coach_contract_start,coach_contract_until,coach_id,coach_name,coach_nationality,competition_code,competition_id,competition_name,marketValue,season_endDate,season_id,season_startDate,team_address,team_clubColors,team_crest,team_founded,team_id,team_name,team_shortName,team_tla,team_venue,team_website
-ESP,2224,Spain,2022-07,2026-06,15873,Ernesto Valverde,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",Red / White / Black,https://crests.football-data.org/77.png,1898,77,Athletic Club,Athletic,ATH,San Mamés,http://www.athletic-club.eus
-ESP,2224,Spain,2011-12,2027-06,132,Diego Simeone,Argentina,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Paseo Virgen del Puerto, 67 Madrid 28005",Red / White / Blue,https://crests.football-data.org/78.png,1903,78,Club Atlético de Madrid,Atleti,ATL,Estadio Wanda Metropolitano,http://www.clubatleticodemadrid.com
-ESP,2224,Spain,2025-06,2027-06,176612,Alessio Lisci,Italy,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle del Sadar, s/n Pamplona 31006",Red / Navy Blue,https://crests.football-data.org/79.png,1920,79,CA Osasuna,Osasuna,OSA,Estadio El Sadar,http://www.osasuna.es
-ESP,2224,Spain,2024-07,2027-06,133997,Hansi Flick,Germany,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,Avenida Arístides Maillol s/n Barcelona 08028,Red / Navy Blue / Orange,https://crests.football-data.org/81.png,1899,81,FC Barcelona,Barça,FCB,Camp Nou,http://www.fcbarcelona.com
-ESP,2224,Spain,2023-04,2026-06,3155,Pepe Bordalás,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Avenida Teresa de Calcuta, s/n Getafe 28903",Blue / White,https://crests.football-data.org/82.png,1946,82,Getafe CF,Getafe,GET,Coliseum Alfonso Pérez,http://www.getafecf.com
-ESP,2224,Spain,2025-05,2026-06,81184,Pacheta,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle del Pintor Manuel Maldonado, s/n Granada 18007",Red / White,https://crests.football-data.org/83.png,1931,83,Granada CF,Granada,GRA,Estadio Nuevo Los Cármenes,http://www.granadacf.es
-ESP,2224,Spain,2025-06,2028-06,180279,Xabi Alonso,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Avenida Concha Espina, 1 Madrid 28036",White / Purple,https://crests.football-data.org/86.png,1902,86,Real Madrid CF,Real Madrid,RMA,Estadio Santiago Bernabéu,http://www.realmadrid.com
-ESP,2224,Spain,2024-02,2026-06,32390,Iñigo Pérez,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle del Payaso Fofó, s/n Madrid 28018",White / Red,https://crests.football-data.org/87.png,1924,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,Estadio del Rayo Vallecano,http://www.rayovallecano.es
-ESP,2224,Spain,2024-07,2027-06,32442,Jagoba Arrasate,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",Red / Black,https://crests.football-data.org/89.png,1916,89,RCD Mallorca,Mallorca,MAL,Iberostar Estadi,http://www.rcdmallorca.es
-ESP,2224,Spain,2020-08,2027-06,11630,Manuel Pellegrini,Chile,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Avenida de Heliópolis, s/n Sevilla 41012",Green / White,https://crests.football-data.org/90.png,1907,90,Real Betis Balompié,Real Betis,BET,Estadio Benito Villamarín,http://www.realbetisbalompie.es
-ESP,2224,Spain,2025-12,2027-06,10232,Pellegrino Matarazzo,USA,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Anoeta Pasalekua, 1 San Sebastián 20014",Blue / White,https://crests.football-data.org/92.png,1903,92,Real Sociedad de Fútbol,Real Sociedad,RSO,Estadio Municipal de Anoeta,http://www.realsociedad.com
-ESP,2224,Spain,2023-11,2026-06,33156,Marcelino,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Camino Miralcamp, s/n Villarreal 12540",Yellow / Blue,https://crests.football-data.org/94.png,1923,94,Villarreal CF,Villarreal,VIL,Estadio de la Cerámica,http://www.villarrealcf.es
-ESP,2224,Spain,2024-12,2027-06,149937,Carlos Corberán,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Plaza del Valencia Club de Fútbol, 2 Valencia 46010",White / Orange / Black,https://crests.football-data.org/95.png,1919,95,Valencia CF,Valencia,VAL,Estadio de Mestalla,http://www.valenciacf.com
-ESP,2224,Spain,2024-12,2026-06,46586,Eduardo Coudet,Argentina,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",Blue / White,https://crests.football-data.org/263.png,1921,263,Deportivo Alavés,Alavés,ALA,Estadio de Mendizorroza,http://www.alaves.com
-ESP,2224,Spain,2024-12,2026-06,100019,Gaizka Garitano,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Plaza de Madrid, s/n Cádiz 11010",Yellow / Blue,https://crests.football-data.org/264.png,1910,264,Cádiz CF,Cádiz CF,CAD,Estadio Ramón de Carranza,http://www.cadizcf.com
-ESP,2224,Spain,2024-07,2027-06,32444,Rubí,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle Alcalde Santiago Martínez Cabrejas, 5 Almería 04007",Red / White,https://crests.football-data.org/267.png,1989,267,UD Almería,Almería,ALM,Estadio de los Juegos Mediterráneos,http://www.udalmeriasad.com
-ESP,2224,Spain,2025-07,2026-06,8940,Luis García,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle Pío XII, 29 Las Palmas de Gran Canaria 35005",Yellow / Blue,https://crests.football-data.org/275.png,1949,275,UD Las Palmas,Las Palmas,LPA,Estadio de Gran Canaria,http://www.udlaspalmas.es
-ESP,2224,Spain,2021-07,2026-06,32129,Michel,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Avinguda de Montilivi, 141 Girona 17003",Red / White / Blue,https://crests.football-data.org/298.png,1930,298,Girona FC,Girona,GIR,Estadi Municipal de Montilivi,http://www.gironafc.cat
-ESP,2224,Spain,2024-03,2027-06,249529,Claudio,Spain,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle del Conde de Gondomar, 1 Vigo 36203",Sky Blue / White,https://crests.football-data.org/558.png,1923,558,RC Celta de Vigo,Celta,CEL,Estadio de Balaídos,http://www.celtavigo.net
-ESP,2224,Spain,2025-07,2027-06,38804,Matías Almeyda,Argentina,PD,2014,Primera Division,0.0,2024-05-26,1577,2023-08-13,"Calle Sevilla Fútbol Club, s/n Sevilla 41005",White / Red,https://crests.football-data.org/559.png,1905,559,Sevilla FC,Sevilla FC,SEV,Estadio Ramón Sánchez Pizjuán,http://www.sevillafc.es
-ESP,2224,Spain,2022-07,2026-06,15873,Ernesto Valverde,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",Red / White / Black,https://crests.football-data.org/77.png,1898,77,Athletic Club,Athletic,ATH,San Mamés,http://www.athletic-club.eus
-ESP,2224,Spain,2011-12,2027-06,132,Diego Simeone,Argentina,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Paseo Virgen del Puerto, 67 Madrid 28005",Red / White / Blue,https://crests.football-data.org/78.png,1903,78,Club Atlético de Madrid,Atleti,ATL,Estadio Wanda Metropolitano,http://www.clubatleticodemadrid.com
-ESP,2224,Spain,2025-06,2027-06,176612,Alessio Lisci,Italy,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Calle del Sadar, s/n Pamplona 31006",Red / Navy Blue,https://crests.football-data.org/79.png,1920,79,CA Osasuna,Osasuna,OSA,Estadio El Sadar,http://www.osasuna.es
-ESP,2224,Spain,2024-03,2027-06,83316,Manolo González,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",Blue / White,https://crests.football-data.org/80.png,1900,80,RCD Espanyol de Barcelona,Espanyol,ESP,RCDE Stadium,http://www.rcdespanyol.com
-ESP,2224,Spain,2024-07,2027-06,133997,Hansi Flick,Germany,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,Avenida Arístides Maillol s/n Barcelona 08028,Red / Navy Blue / Orange,https://crests.football-data.org/81.png,1899,81,FC Barcelona,Barça,FCB,Camp Nou,http://www.fcbarcelona.com
-ESP,2224,Spain,2023-04,2026-06,3155,Pepe Bordalás,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Avenida Teresa de Calcuta, s/n Getafe 28903",Blue / White,https://crests.football-data.org/82.png,1946,82,Getafe CF,Getafe,GET,Coliseum Alfonso Pérez,http://www.getafecf.com
-ESP,2224,Spain,2025-06,2028-06,180279,Xabi Alonso,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Avenida Concha Espina, 1 Madrid 28036",White / Purple,https://crests.football-data.org/86.png,1902,86,Real Madrid CF,Real Madrid,RMA,Estadio Santiago Bernabéu,http://www.realmadrid.com
-ESP,2224,Spain,2024-02,2026-06,32390,Iñigo Pérez,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Calle del Payaso Fofó, s/n Madrid 28018",White / Red,https://crests.football-data.org/87.png,1924,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,Estadio del Rayo Vallecano,http://www.rayovallecano.es
-ESP,2224,Spain,2024-07,2027-06,32442,Jagoba Arrasate,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",Red / Black,https://crests.football-data.org/89.png,1916,89,RCD Mallorca,Mallorca,MAL,Iberostar Estadi,http://www.rcdmallorca.es
-ESP,2224,Spain,2020-08,2027-06,11630,Manuel Pellegrini,Chile,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Avenida de Heliópolis, s/n Sevilla 41012",Green / White,https://crests.football-data.org/90.png,1907,90,Real Betis Balompié,Real Betis,BET,Estadio Benito Villamarín,http://www.realbetisbalompie.es
-ESP,2224,Spain,2025-12,2027-06,10232,Pellegrino Matarazzo,USA,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Anoeta Pasalekua, 1 San Sebastián 20014",Blue / White,https://crests.football-data.org/92.png,1903,92,Real Sociedad de Fútbol,Real Sociedad,RSO,Estadio Municipal de Anoeta,http://www.realsociedad.com
-ESP,2224,Spain,2023-11,2026-06,33156,Marcelino,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Camino Miralcamp, s/n Villarreal 12540",Yellow / Blue,https://crests.football-data.org/94.png,1923,94,Villarreal CF,Villarreal,VIL,Estadio de la Cerámica,http://www.villarrealcf.es
-ESP,2224,Spain,2024-12,2027-06,149937,Carlos Corberán,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Plaza del Valencia Club de Fútbol, 2 Valencia 46010",White / Orange / Black,https://crests.football-data.org/95.png,1919,95,Valencia CF,Valencia,VAL,Estadio de Mestalla,http://www.valenciacf.com
-ESP,2224,Spain,2025-12,2026-06,271018,Tevenet,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Avenida del Mundial, 82 Valladolid 47014",Violet / White,https://crests.football-data.org/250.png,1928,250,Real Valladolid CF,Valladolid,VDD,Estadio Municipal José Zorrilla,http://www.realvalladolid.es
-ESP,2224,Spain,2024-12,2026-06,46586,Eduardo Coudet,Argentina,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",Blue / White,https://crests.football-data.org/263.png,1921,263,Deportivo Alavés,Alavés,ALA,Estadio de Mendizorroza,http://www.alaves.com
-ESP,2224,Spain,2025-07,2026-06,8940,Luis García,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Calle Pío XII, 29 Las Palmas de Gran Canaria 35005",Yellow / Blue,https://crests.football-data.org/275.png,1949,275,UD Las Palmas,Las Palmas,LPA,Estadio de Gran Canaria,http://www.udlaspalmas.es
-ESP,2224,Spain,2021-07,2026-06,32129,Michel,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Avinguda de Montilivi, 141 Girona 17003",Red / White / Blue,https://crests.football-data.org/298.png,1930,298,Girona FC,Girona,GIR,Estadi Municipal de Montilivi,http://www.gironafc.cat
-ESP,2224,Spain,2024-03,2027-06,249529,Claudio,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Calle del Conde de Gondomar, 1 Vigo 36203",Sky Blue / White,https://crests.football-data.org/558.png,1923,558,RC Celta de Vigo,Celta,CEL,Estadio de Balaídos,http://www.celtavigo.net
-ESP,2224,Spain,2025-07,2027-06,38804,Matías Almeyda,Argentina,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Calle Sevilla Fútbol Club, s/n Sevilla 41005",White / Red,https://crests.football-data.org/559.png,1905,559,Sevilla FC,Sevilla FC,SEV,Estadio Ramón Sánchez Pizjuán,http://www.sevillafc.es
-ESP,2224,Spain,2025-12,2026-06,159726,Igor Oca Pulido,Spain,PD,2014,Primera Division,0.0,2025-05-25,2292,2024-08-18,"Calle Arquitectura, s/n Leganés 28914",Blue / White,https://crests.football-data.org/745.png,1928,745,CD Leganés,Leganés,LEG,Estadio Municipal de Butarque,http://www.deportivoleganes.com
-ESP,2224,Spain,2022-07,2026-06,15873,Ernesto Valverde,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",Red / White / Black,https://crests.football-data.org/77.png,1898,77,Athletic Club,Athletic,ATH,San Mamés,http://www.athletic-club.eus
-ESP,2224,Spain,2011-12,2027-06,132,Diego Simeone,Argentina,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Paseo Virgen del Puerto, 67 Madrid 28005",Red / White / Blue,https://crests.football-data.org/78.png,1903,78,Club Atlético de Madrid,Atleti,ATL,Estadio Wanda Metropolitano,http://www.clubatleticodemadrid.com
-ESP,2224,Spain,2025-06,2027-06,176612,Alessio Lisci,Italy,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Calle del Sadar, s/n Pamplona 31006",Red / Navy Blue,https://crests.football-data.org/79.png,1920,79,CA Osasuna,Osasuna,OSA,Estadio El Sadar,http://www.osasuna.es
-ESP,2224,Spain,2024-03,2027-06,83316,Manolo González,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",Blue / White,https://crests.football-data.org/80.png,1900,80,RCD Espanyol de Barcelona,Espanyol,ESP,RCDE Stadium,http://www.rcdespanyol.com
-ESP,2224,Spain,2024-07,2027-06,133997,Hansi Flick,Germany,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,Avenida Arístides Maillol s/n Barcelona 08028,Red / Navy Blue / Orange,https://crests.football-data.org/81.png,1899,81,FC Barcelona,Barça,FCB,Camp Nou,http://www.fcbarcelona.com
-ESP,2224,Spain,2023-04,2026-06,3155,Pepe Bordalás,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Avenida Teresa de Calcuta, s/n Getafe 28903",Blue / White,https://crests.football-data.org/82.png,1946,82,Getafe CF,Getafe,GET,Coliseum Alfonso Pérez,http://www.getafecf.com
-ESP,2224,Spain,2025-06,2028-06,180279,Xabi Alonso,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Avenida Concha Espina, 1 Madrid 28036",White / Purple,https://crests.football-data.org/86.png,1902,86,Real Madrid CF,Real Madrid,RMA,Estadio Santiago Bernabéu,http://www.realmadrid.com
-ESP,2224,Spain,2024-02,2026-06,32390,Iñigo Pérez,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Calle del Payaso Fofó, s/n Madrid 28018",White / Red,https://crests.football-data.org/87.png,1924,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,Estadio del Rayo Vallecano,http://www.rayovallecano.es
-ESP,2224,Spain,2025-12,2027-06,128034,Luís Castro,Portugal,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Calle San Vicente de Paúl, 44 Valencia 46019",Crimson / Blue,https://crests.football-data.org/88.png,1909,88,Levante UD,Levante,LEV,Estadio Ciudad de Valencia,http://www.levanteud.com
-ESP,2224,Spain,2024-07,2027-06,32442,Jagoba Arrasate,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",Red / Black,https://crests.football-data.org/89.png,1916,89,RCD Mallorca,Mallorca,MAL,Iberostar Estadi,http://www.rcdmallorca.es
-ESP,2224,Spain,2020-08,2027-06,11630,Manuel Pellegrini,Chile,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Avenida de Heliópolis, s/n Sevilla 41012",Green / White,https://crests.football-data.org/90.png,1907,90,Real Betis Balompié,Real Betis,BET,Estadio Benito Villamarín,http://www.realbetisbalompie.es
-ESP,2224,Spain,2025-12,2027-06,10232,Pellegrino Matarazzo,USA,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Anoeta Pasalekua, 1 San Sebastián 20014",Blue / White,https://crests.football-data.org/92.png,1903,92,Real Sociedad de Fútbol,Real Sociedad,RSO,Estadio Municipal de Anoeta,http://www.realsociedad.com
-ESP,2224,Spain,2023-11,2026-06,33156,Marcelino,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Camino Miralcamp, s/n Villarreal 12540",Yellow / Blue,https://crests.football-data.org/94.png,1923,94,Villarreal CF,Villarreal,VIL,Estadio de la Cerámica,http://www.villarrealcf.es
-ESP,2224,Spain,2024-12,2027-06,149937,Carlos Corberán,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Plaza del Valencia Club de Fútbol, 2 Valencia 46010",White / Orange / Black,https://crests.football-data.org/95.png,1919,95,Valencia CF,Valencia,VAL,Estadio de Mestalla,http://www.valenciacf.com
-ESP,2224,Spain,2024-12,2026-06,46586,Eduardo Coudet,Argentina,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",Blue / White,https://crests.football-data.org/263.png,1921,263,Deportivo Alavés,Alavés,ALA,Estadio de Mendizorroza,http://www.alaves.com
-ESP,2224,Spain,2024-07,2027-06,186597,Eder Sarabia,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Avenida Manuel Martínez Valero, 3 Elche 03208",White / Green,https://crests.football-data.org/285.png,1923,285,Elche CF,Elche,ELC,Estadio Manuel Martínez Valero,http://www.elchecf.es
-ESP,2224,Spain,2021-07,2026-06,32129,Michel,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Avinguda de Montilivi, 141 Girona 17003",Red / White / Blue,https://crests.football-data.org/298.png,1930,298,Girona FC,Girona,GIR,Estadi Municipal de Montilivi,http://www.gironafc.cat
-ESP,2224,Spain,2024-03,2027-06,249529,Claudio,Spain,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Calle del Conde de Gondomar, 1 Vigo 36203",Sky Blue / White,https://crests.football-data.org/558.png,1923,558,RC Celta de Vigo,Celta,CEL,Estadio de Balaídos,http://www.celtavigo.net
-ESP,2224,Spain,2025-07,2027-06,38804,Matías Almeyda,Argentina,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Calle Sevilla Fútbol Club, s/n Sevilla 41005",White / Red,https://crests.football-data.org/559.png,1905,559,Sevilla FC,Sevilla FC,SEV,Estadio Ramón Sánchez Pizjuán,http://www.sevillafc.es
-ESP,2224,Spain,2025-12,2026-06,181409,Jorge Almada,Uruguay,PD,2014,Primera Division,0.0,2026-05-24,2429,2025-08-17,"Ricardo Vázquez Prada, s/n Oviedo 33013",Blue / White,https://crests.football-data.org/1048.png,1926,1048,Real Oviedo,Real Oviedo,OVI,Estadio Nuevo Carlos Tartiere,http://www.realoviedo.es
+coach_id,coach_name,competition_id,competition_name,season_endDate,season_id,season_startDate,team_id,team_name
+15873,Ernesto Valverde,2014,Primera Division,2024-05-26,1577,2023-08-13,77,Athletic Club
+132,Diego Simeone,2014,Primera Division,2024-05-26,1577,2023-08-13,78,Club Atlético de Madrid
+176612,Alessio Lisci,2014,Primera Division,2024-05-26,1577,2023-08-13,79,CA Osasuna
+133997,Hansi Flick,2014,Primera Division,2024-05-26,1577,2023-08-13,81,FC Barcelona
+3155,Pepe Bordalás,2014,Primera Division,2024-05-26,1577,2023-08-13,82,Getafe CF
+81184,Pacheta,2014,Primera Division,2024-05-26,1577,2023-08-13,83,Granada CF
+180279,Xabi Alonso,2014,Primera Division,2024-05-26,1577,2023-08-13,86,Real Madrid CF
+32390,Iñigo Pérez,2014,Primera Division,2024-05-26,1577,2023-08-13,87,Rayo Vallecano de Madrid
+32442,Jagoba Arrasate,2014,Primera Division,2024-05-26,1577,2023-08-13,89,RCD Mallorca
+11630,Manuel Pellegrini,2014,Primera Division,2024-05-26,1577,2023-08-13,90,Real Betis Balompié
+10232,Pellegrino Matarazzo,2014,Primera Division,2024-05-26,1577,2023-08-13,92,Real Sociedad de Fútbol
+33156,Marcelino,2014,Primera Division,2024-05-26,1577,2023-08-13,94,Villarreal CF
+149937,Carlos Corberán,2014,Primera Division,2024-05-26,1577,2023-08-13,95,Valencia CF
+46586,Eduardo Coudet,2014,Primera Division,2024-05-26,1577,2023-08-13,263,Deportivo Alavés
+100019,Gaizka Garitano,2014,Primera Division,2024-05-26,1577,2023-08-13,264,Cádiz CF
+32444,Rubí,2014,Primera Division,2024-05-26,1577,2023-08-13,267,UD Almería
+8940,Luis García,2014,Primera Division,2024-05-26,1577,2023-08-13,275,UD Las Palmas
+32129,Michel,2014,Primera Division,2024-05-26,1577,2023-08-13,298,Girona FC
+249529,Claudio,2014,Primera Division,2024-05-26,1577,2023-08-13,558,RC Celta de Vigo
+38804,Matías Almeyda,2014,Primera Division,2024-05-26,1577,2023-08-13,559,Sevilla FC
+15873,Ernesto Valverde,2014,Primera Division,2025-05-25,2292,2024-08-18,77,Athletic Club
+132,Diego Simeone,2014,Primera Division,2025-05-25,2292,2024-08-18,78,Club Atlético de Madrid
+176612,Alessio Lisci,2014,Primera Division,2025-05-25,2292,2024-08-18,79,CA Osasuna
+83316,Manolo González,2014,Primera Division,2025-05-25,2292,2024-08-18,80,RCD Espanyol de Barcelona
+133997,Hansi Flick,2014,Primera Division,2025-05-25,2292,2024-08-18,81,FC Barcelona
+3155,Pepe Bordalás,2014,Primera Division,2025-05-25,2292,2024-08-18,82,Getafe CF
+180279,Xabi Alonso,2014,Primera Division,2025-05-25,2292,2024-08-18,86,Real Madrid CF
+32390,Iñigo Pérez,2014,Primera Division,2025-05-25,2292,2024-08-18,87,Rayo Vallecano de Madrid
+32442,Jagoba Arrasate,2014,Primera Division,2025-05-25,2292,2024-08-18,89,RCD Mallorca
+11630,Manuel Pellegrini,2014,Primera Division,2025-05-25,2292,2024-08-18,90,Real Betis Balompié
+10232,Pellegrino Matarazzo,2014,Primera Division,2025-05-25,2292,2024-08-18,92,Real Sociedad de Fútbol
+33156,Marcelino,2014,Primera Division,2025-05-25,2292,2024-08-18,94,Villarreal CF
+149937,Carlos Corberán,2014,Primera Division,2025-05-25,2292,2024-08-18,95,Valencia CF
+271018,Tevenet,2014,Primera Division,2025-05-25,2292,2024-08-18,250,Real Valladolid CF
+46586,Eduardo Coudet,2014,Primera Division,2025-05-25,2292,2024-08-18,263,Deportivo Alavés
+8940,Luis García,2014,Primera Division,2025-05-25,2292,2024-08-18,275,UD Las Palmas
+32129,Michel,2014,Primera Division,2025-05-25,2292,2024-08-18,298,Girona FC
+249529,Claudio,2014,Primera Division,2025-05-25,2292,2024-08-18,558,RC Celta de Vigo
+38804,Matías Almeyda,2014,Primera Division,2025-05-25,2292,2024-08-18,559,Sevilla FC
+159726,Igor Oca Pulido,2014,Primera Division,2025-05-25,2292,2024-08-18,745,CD Leganés
+15873,Ernesto Valverde,2014,Primera Division,2026-05-24,2429,2025-08-17,77,Athletic Club
+132,Diego Simeone,2014,Primera Division,2026-05-24,2429,2025-08-17,78,Club Atlético de Madrid
+176612,Alessio Lisci,2014,Primera Division,2026-05-24,2429,2025-08-17,79,CA Osasuna
+83316,Manolo González,2014,Primera Division,2026-05-24,2429,2025-08-17,80,RCD Espanyol de Barcelona
+133997,Hansi Flick,2014,Primera Division,2026-05-24,2429,2025-08-17,81,FC Barcelona
+3155,Pepe Bordalás,2014,Primera Division,2026-05-24,2429,2025-08-17,82,Getafe CF
+180279,Xabi Alonso,2014,Primera Division,2026-05-24,2429,2025-08-17,86,Real Madrid CF
+32390,Iñigo Pérez,2014,Primera Division,2026-05-24,2429,2025-08-17,87,Rayo Vallecano de Madrid
+128034,Luís Castro,2014,Primera Division,2026-05-24,2429,2025-08-17,88,Levante UD
+32442,Jagoba Arrasate,2014,Primera Division,2026-05-24,2429,2025-08-17,89,RCD Mallorca
+11630,Manuel Pellegrini,2014,Primera Division,2026-05-24,2429,2025-08-17,90,Real Betis Balompié
+10232,Pellegrino Matarazzo,2014,Primera Division,2026-05-24,2429,2025-08-17,92,Real Sociedad de Fútbol
+33156,Marcelino,2014,Primera Division,2026-05-24,2429,2025-08-17,94,Villarreal CF
+149937,Carlos Corberán,2014,Primera Division,2026-05-24,2429,2025-08-17,95,Valencia CF
+46586,Eduardo Coudet,2014,Primera Division,2026-05-24,2429,2025-08-17,263,Deportivo Alavés
+186597,Eder Sarabia,2014,Primera Division,2026-05-24,2429,2025-08-17,285,Elche CF
+32129,Michel,2014,Primera Division,2026-05-24,2429,2025-08-17,298,Girona FC
+249529,Claudio,2014,Primera Division,2026-05-24,2429,2025-08-17,558,RC Celta de Vigo
+38804,Matías Almeyda,2014,Primera Division,2026-05-24,2429,2025-08-17,559,Sevilla FC
+181409,Jorge Almada,2014,Primera Division,2026-05-24,2429,2025-08-17,1048,Real Oviedo

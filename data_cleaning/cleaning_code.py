@@ -42,7 +42,11 @@ print("\n1. Processing teams.csv...")
 teams_df = pd.read_csv("../data/teams.csv")
 
 # Drop columns with raw JSON data and redundant information
-columns_to_drop_teams = ['raw_json', 'runningCompetitions_json']
+columns_to_drop_teams = ['raw_json', 'runningCompetitions_json', 'area_code', 'area_id', 'area_name',
+                         'coach_contract_start', 'coach_contract_until', 'coach_nationality', 
+                         'competition_code', 'marketValue', 'team_address', 'team_clubColors', 
+                         'team_crest', 'team_founded', 'team_shortName', 'team_tla', 
+                         'team_venue', 'team_website']
 teams_df_clean = teams_df.drop(columns=[col for col in columns_to_drop_teams if col in teams_df.columns])
 
 # Handle missing values
@@ -68,8 +72,15 @@ print(f"   ✓ Removed columns: {columns_to_drop_teams}")
 print("\n2. Processing standings.csv...")
 standings_df = pd.read_csv("../data/standings.csv")
 
-# Drop raw JSON columns
-columns_to_drop_standings = ['raw_row_json', 'raw_team_json']
+# Extract team_id mapping before dropping columns
+team_id_mapping_standings = None
+if 'team_id' in standings_df.columns:
+    team_id_mapping_standings = standings_df[['team_name', 'team_id']].drop_duplicates(subset='team_name', keep='first')
+
+# Drop raw JSON columns and other unnecessary columns
+columns_to_drop_standings = ['raw_row_json', 'raw_team_json', 'area_id', 'area_name', 
+                             'competition_code', 'form', 'standing_stage', 'standing_type',
+                             'team_crest', 'team_shortName', 'team_tla']
 standings_df_clean = standings_df.drop(columns=[col for col in columns_to_drop_standings if col in standings_df.columns])
 
 # Handle missing values
@@ -96,8 +107,15 @@ print(f"   ✓ Cleaned standings data: {len(standings_df_clean)} rows, {len(stan
 print("\n3. Processing scorers.csv...")
 scorers_df = pd.read_csv("../data/scorers.csv")
 
-# Drop raw JSON columns
-columns_to_drop_scorers = ['raw_player_json', 'raw_scorer_json', 'raw_team_json']
+# Extract player_id mapping before dropping columns
+player_id_mapping_scorers = None
+if 'player_id' in scorers_df.columns:
+    player_id_mapping_scorers = scorers_df[['player_name', 'player_id']].drop_duplicates(subset='player_name', keep='first')
+
+# Drop raw JSON columns and other unnecessary columns
+columns_to_drop_scorers = ['raw_player_json', 'raw_scorer_json', 'raw_team_json',
+                          'player_firstName', 'player_lastName', 'player_position',
+                          'player_shirtNumber', 'team_crest', 'team_shortName', 'team_tla']
 scorers_df_clean = scorers_df.drop(columns=[col for col in columns_to_drop_scorers if col in scorers_df.columns])
 
 # Handle missing values
@@ -124,8 +142,27 @@ print(f"   ✓ Cleaned scorers data: {len(scorers_df_clean)} rows, {len(scorers_
 print("\n4. Processing matches.csv...")
 matches_df = pd.read_csv("../data/matches.csv")
 
-# Drop raw JSON columns
-columns_to_drop_matches = ['raw_json', 'referees_json']
+# Extract team_id mappings before dropping columns (for aggregated files)
+team_id_mapping_matches = None
+if 'homeTeam_id' in matches_df.columns and 'awayTeam_id' in matches_df.columns:
+    home_team_ids = matches_df[['homeTeam_name', 'homeTeam_id']].drop_duplicates(subset='homeTeam_name', keep='first')
+    home_team_ids.columns = ['team_name', 'team_id']
+    away_team_ids = matches_df[['awayTeam_name', 'awayTeam_id']].drop_duplicates(subset='awayTeam_name', keep='first')
+    away_team_ids.columns = ['team_name', 'team_id']
+    # Combine and take first non-null value
+    team_id_mapping_matches = pd.concat([home_team_ids, away_team_ids]).drop_duplicates(subset='team_name', keep='first')
+
+# Drop raw JSON columns and other unnecessary columns
+columns_to_drop_matches = ['raw_json', 'referees_json', 'area_name', 'attendance',
+                          'awayTeam_crest', 'awayTeam_shortName', 'awayTeam_tla',
+                          'bookings_count', 'competition_code', 'goals_count', 'group',
+                          'homeTeam_crest', 'homeTeam_shortName', 'homeTeam_tla',
+                          'injuryTime', 'lastUpdated', 'minute', 'odds_awayWin',
+                          'odds_draw', 'odds_homeWin', 'stage', 'status', 'utcDate', 'venue',
+                          'score_extraTime_away', 'score_extraTime_home',
+                          'score_penalties_away', 'score_penalties_home',
+                          'score_regularTime_away', 'score_regularTime_home',
+                          'score_duration']
 matches_df_clean = matches_df.drop(columns=[col for col in columns_to_drop_matches if col in matches_df.columns])
 
 # Handle missing values
@@ -159,6 +196,9 @@ print(f"   ✓ Cleaned matches data: {len(matches_df_clean)} rows, {len(matches_
 print("\n5. Creating aggregated datasets...")
 
 # Aggregation 1: Team Statistics Summary
+# Use team_id mapping extracted earlier
+team_id_mapping = team_id_mapping_standings if team_id_mapping_standings is not None else pd.DataFrame(columns=['team_name', 'team_id'])
+
 team_stats = standings_df_clean.groupby('team_name').agg({
     'points': 'max',
     'won': 'max',
@@ -169,17 +209,40 @@ team_stats = standings_df_clean.groupby('team_name').agg({
     'goalDifference': 'max',
     'position': 'min'  # Best position
 }).reset_index()
+
+# Add team_id to team_stats if available
+if team_id_mapping is not None and len(team_id_mapping) > 0:
+    team_stats = pd.merge(team_stats, team_id_mapping, on='team_name', how='left')
+    # Reorder columns to have team_id early
+    cols = ['team_name', 'team_id'] + [col for col in team_stats.columns if col not in ['team_name', 'team_id']]
+    team_stats = team_stats[cols]
+else:
+    print("   ⚠ Warning: team_id not available for team_statistics_aggregated.csv")
+
 team_stats = team_stats.sort_values('points', ascending=False)
 team_stats.to_csv(cleared_data_folder / "team_statistics_aggregated.csv", index=False)
 print("   ✓ Created team_statistics_aggregated.csv")
 
 # Aggregation 2: Top Scorers by Season
+# Use player_id mapping extracted earlier
+player_id_mapping = player_id_mapping_scorers if player_id_mapping_scorers is not None else pd.DataFrame(columns=['player_name', 'player_id'])
+
 top_scorers = scorers_df_clean.groupby(['season_id', 'player_name']).agg({
     'goals': 'sum',
     'assists': 'sum',
     'penalties': 'sum',
     'team_name': 'first'
 }).reset_index()
+
+# Add player_id to top_scorers if available
+if player_id_mapping is not None and len(player_id_mapping) > 0:
+    top_scorers = pd.merge(top_scorers, player_id_mapping, on='player_name', how='left')
+    # Reorder columns to have player_id early
+    cols = ['season_id', 'player_name', 'player_id'] + [col for col in top_scorers.columns if col not in ['season_id', 'player_name', 'player_id']]
+    top_scorers = top_scorers[cols]
+else:
+    print("   ⚠ Warning: player_id not available for top_scorers_aggregated.csv")
+
 top_scorers = top_scorers.sort_values(['season_id', 'goals'], ascending=[True, False])
 top_scorers.to_csv(cleared_data_folder / "top_scorers_aggregated.csv", index=False)
 print("   ✓ Created top_scorers_aggregated.csv")
@@ -209,6 +272,16 @@ team_match_stats = pd.merge(home_stats, away_stats, on='team_name', how='outer')
 team_match_stats['total_wins'] = team_match_stats['home_wins'] + team_match_stats['away_wins']
 team_match_stats['total_goals_for'] = team_match_stats['goals_for_home'] + team_match_stats['goals_for_away']
 team_match_stats['total_goals_against'] = team_match_stats['goals_against_home'] + team_match_stats['goals_against_away']
+
+# Add team_id from matches data (use mapping extracted earlier)
+if team_id_mapping_matches is not None and len(team_id_mapping_matches) > 0:
+    team_match_stats = pd.merge(team_match_stats, team_id_mapping_matches, on='team_name', how='left')
+    # Reorder columns to have team_id early
+    cols = ['team_name', 'team_id'] + [col for col in team_match_stats.columns if col not in ['team_name', 'team_id']]
+    team_match_stats = team_match_stats[cols]
+else:
+    print("   ⚠ Warning: team_id not available for team_match_statistics_aggregated.csv")
+
 team_match_stats = team_match_stats.sort_values('total_wins', ascending=False)
 team_match_stats.to_csv(cleared_data_folder / "team_match_statistics_aggregated.csv", index=False)
 print("   ✓ Created team_match_statistics_aggregated.csv")
