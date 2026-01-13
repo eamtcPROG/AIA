@@ -51,3 +51,5 @@ pip-wheel-metadata/
 
 _api_cache/
 .matplotlib/
+
+.mplconfig/
