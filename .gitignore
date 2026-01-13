@@ -50,3 +50,4 @@ pip-wheel-metadata/
 *.log
 
 _api_cache/
+.matplotlib/
